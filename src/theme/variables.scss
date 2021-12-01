@@ -18,3 +18,7 @@ $neutralColor3: hsl(184, 14%, 56%);
 $neutralColor4: hsl(185, 41%, 84%);
 $neutralColor5: hsl(189, 41%, 97%);
 $white: hsl(0, 0%, 100%);
+$error: hsla(13, 70%, 61%, 1);
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
+$textFont: 'Space Mono', monospace;
