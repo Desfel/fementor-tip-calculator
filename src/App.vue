@@ -91,7 +91,7 @@ body {
         height: 100%;
         min-height: 100vh;
         margin: auto;
-        background: $primaryColor;
+        background: $neutralColor4;
         padding: 60px;
       }
     }
